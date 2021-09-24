@@ -9,6 +9,7 @@ I am student and developer.
 
 - 🤣 _Fun fact: When I was seven, I won my first computer and it was love at first sight._ ❤️
 
+<br>
 <div style="display: inline_block">
   <a href="https://github.com/renanaguiars">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=renanaguiars&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -26,8 +27,10 @@ I am student and developer.
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> 
 </div>
 
- ##
+ <hr>
     
+ ### 📩 Connect with me: 
+ <br>
 <div>
   <a href = "https://www.facebook.com/renan.aguiar.98284566/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/renanaguiars_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
