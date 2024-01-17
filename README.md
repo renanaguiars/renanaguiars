@@ -1,4 +1,4 @@
-### Welcome to my GitHub. I'm Renan de Aguiar! 👋
+### Welcome to my GitHub. I'm Renan Aguiar! 👋
 
 I am student and developer. 
 ##
