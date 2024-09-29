@@ -3,9 +3,9 @@
 I am student and developer. 
 ##
 
-- 💻 _I am currently studying Information Systems (IT) at UVV-ES._
+- 💻 _I am bachelor in Information Systems (IT) at UVV-ES._
 
-- 📡️ _Constantly learning about Web technologies and code._ 
+- 📡️ _Constantly learning about Web technologies, UI/UX and code._ 
 
 - 🤣 _Fun fact: When I was seven, I won my first computer and it was love at first sight._ ❤️
 
